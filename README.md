@@ -23,3 +23,9 @@ loadstring(game:HttpGet('https://hastebin.com/raw/kufotelofi'))()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/LockZxn/Script/main/RxzenGoat')()
 
 ```
+
+## Universal Keyboard V1
+
+```lua
+loadstring(game:HttpGet("https://paste.bingner.com/paste/tbdv9/raw"))()
+```
